@@ -9,7 +9,6 @@ This project demonstrates an image classifier built using PyTorch and converted 
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Resources](#resources)
