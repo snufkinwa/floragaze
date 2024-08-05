@@ -29,7 +29,7 @@ This project involves building an image classifier using a deep learning model w
 
 1. Training the Model:
 
-Open the `AI_Programming_with_Python_Project.ipynb` notebook in Google Colab. Ensure you have the GPU runtime enabled for faster training. Follow the instructions in the notebook to load data, build, train, and save the model.
+Open the `Image Classifier Project.ipynb` notebook in Google Colab. Ensure you have the GPU runtime enabled for faster training. Follow the instructions in the notebook to load data, build, train, and save the model.
 
 2. Predicting Image Class:
 
